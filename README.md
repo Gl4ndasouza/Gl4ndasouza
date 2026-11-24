@@ -16,9 +16,9 @@
 />
   <h3> 🎍 Sobre mim</h3>
   
-- Estudante de engenharia de software 
-- 🌴 Estudando JavaScript 
-- 😄 Pronouns: Ela/Dela
+- Estudante de engenharia de software.
+- 🌴 Estudando JavaScript.
+- 😄 Pronouns: Ela/Dela.
  
 [![Glenda GitHub stats](https://github-stats-extended.vercel.app/api?username=Gl4ndasouza&bg_color=2b2b2b&title_color=27ae60&icon_color=27ae60&text_color=27ae60)](https://github.com/stats-organization/github-stats-extended)
 
